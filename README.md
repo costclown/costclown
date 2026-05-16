@@ -1,1 +1,1 @@
-### [301 Moved Permanently](https://gitlab.com/costclown)
+### `301 Moved Permanently` ([GitLab](https://gitlab.com/costclown))
